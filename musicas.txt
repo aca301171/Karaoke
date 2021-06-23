@@ -1,4 +1,5 @@
-      57
+      58
+      xuxa;08001;só para baixinhos
       A COR DO SOM;00001;ABRI A PORTA   
       A COR DO SOM;00002;MENINO DEUS   
       A COR DO SOM;00003;VIVA   
