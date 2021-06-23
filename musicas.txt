@@ -1,4 +1,4 @@
-      54
+      60
       A COR DO SOM;00001;ABRI A PORTA   
       A COR DO SOM;00002;MENINO DEUS   
       A COR DO SOM;00003;VIVA   
